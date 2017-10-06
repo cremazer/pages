@@ -17,7 +17,7 @@ title: Cremazer Blog
 email: cremazer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"  
   I am a self-learning developer learning machine learning.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/pages" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cremazer
 github_username:  cremazer
